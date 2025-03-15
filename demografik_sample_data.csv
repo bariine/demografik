@@ -1,375 +1,375 @@
 Sicil_ID,Hire Date,Termination Date,City,Gender,Seniority,Age Range,Education Level,Title
 M00001,2/24/2016,6/15/2023,Bolu,Female,B,25-31,Master's Degree,PP
-M00002,8/1/2018,,Ankara,Male,B,39-45,Associate Degree,RR
-M00003,6/12/2024,,Izmir,Male,B,39-45,Master's Degree,KK
+M00002,8/1/2018,,Ankara,Female,B,39-45,Associate Degree,RR
+M00003,6/12/2024,,Izmir,Female,B,39-45,Master's Degree,KK
 M00004,1/7/2023,,Bolu,Female,E,32-38,High School,YY
-M00005,8/31/2019,,Aydin,Male,A,25-31,Doctorate,TT
-M00006,8/21/2023,,Aydin,Male,F,25-31,Doctorate,RR
-M00007,8/29/2019,12/7/2024,Izmir,Male,G,52+,Associate Degree,XX
-M00008,7/16/2017,,Istanbul,Male,A,25-31,Doctorate,RR
-M00009,2/4/2016,9/17/2023,Istanbul,Male,F,25-31,Primary School,ZZ
+M00005,8/31/2019,,Aydin,Female,A,25-31,Doctorate,TT
+M00006,8/21/2023,,Aydin,Female,F,25-31,Doctorate,RR
+M00007,8/29/2019,12/7/2024,Izmir,Female,G,52+,Associate Degree,XX
+M00008,7/16/2017,,Istanbul,Female,A,25-31,Doctorate,RR
+M00009,2/4/2016,9/17/2023,Istanbul,Female,F,25-31,Primary School,ZZ
 M00010,5/26/2015,1/1/2024,Bolu,Female,D,25-31,High School,TT
-M00011,7/28/2020,8/16/2021,Ankara,Male,A,52+,Associate Degree,RR
-M00012,3/10/2018,,Istanbul,Male,E,52+,High School,KK
-M00013,1/17/2024,,Izmir,Male,C,32-38,Bachelor's Degree,ZZ
-M00014,8/18/2020,9/12/2023,Ankara,Male,B,18-24,Doctorate,RR
-M00015,7/25/2017,3/25/2022,Bolu,Male,C,52+,High School,YY
-M00016,6/19/2023,,Istanbul,Male,B,39-45,Bachelor's Degree,TT
-M00017,1/24/2024,,Istanbul,Male,G,52+,Associate Degree,XX
-M00018,4/29/2016,,Aydin,Male,A,52+,Master's Degree,ZZ
-M00019,3/31/2019,7/3/2024,Aydin,Male,B,32-38,Bachelor's Degree,KK
-M00020,5/10/2022,,Ankara,Male,C,18-24,High School,XX
-M00021,4/24/2021,9/6/2023,Antalya,Male,A,25-31,High School,ZZ
-M00022,5/12/2021,9/23/2021,Ankara,Male,G,46-52,Doctorate,PP
-M00023,10/1/2020,10/30/2024,Ankara,Male,G,25-31,Doctorate,YY
-M00024,3/5/2023,,Antalya,Male,C,25-31,Primary School,PP
-M00025,5/10/2020,,Izmir,Male,E,39-45,High School,PP
-M00026,1/26/2020,4/23/2022,Bolu,Male,F,32-38,Primary School,ZZ
-M00027,11/16/2022,,Istanbul,Male,F,52+,Primary School,RR
-M00028,4/17/2016,2/21/2017,Bolu,Male,A,18-24,Master's Degree,XX
-M00029,7/30/2018,4/30/2021,Antalya,Male,E,25-31,Primary School,YY
+M00011,7/28/2020,8/16/2021,Ankara,Female,A,52+,Associate Degree,RR
+M00012,3/10/2018,,Istanbul,Female,E,52+,High School,KK
+M00013,1/17/2024,,Izmir,Female,C,32-38,Bachelor's Degree,ZZ
+M00014,8/18/2020,9/12/2023,Ankara,Female,B,18-24,Doctorate,RR
+M00015,7/25/2017,3/25/2022,Bolu,Female,C,52+,High School,YY
+M00016,6/19/2023,,Istanbul,Female,B,39-45,Bachelor's Degree,TT
+M00017,1/24/2024,,Istanbul,Female,G,52+,Associate Degree,XX
+M00018,4/29/2016,,Aydin,Female,A,52+,Master's Degree,ZZ
+M00019,3/31/2019,7/3/2024,Aydin,Female,B,32-38,Bachelor's Degree,KK
+M00020,5/10/2022,,Ankara,Female,C,18-24,High School,XX
+M00021,4/24/2021,9/6/2023,Antalya,Female,A,25-31,High School,ZZ
+M00022,5/12/2021,9/23/2021,Ankara,Female,G,46-52,Doctorate,PP
+M00023,10/1/2020,10/30/2024,Ankara,Female,G,25-31,Doctorate,YY
+M00024,3/5/2023,,Antalya,Female,C,25-31,Primary School,PP
+M00025,5/10/2020,,Izmir,Female,E,39-45,High School,PP
+M00026,1/26/2020,4/23/2022,Bolu,Female,F,32-38,Primary School,ZZ
+M00027,11/16/2022,,Istanbul,Female,F,52+,Primary School,RR
+M00028,4/17/2016,2/21/2017,Bolu,Female,A,18-24,Master's Degree,XX
+M00029,7/30/2018,4/30/2021,Antalya,Female,E,25-31,Primary School,YY
 M00030,12/20/2020,,Istanbul,Female,C,39-45,Doctorate,PP
 M00031,11/30/2021,,Bolu,Female,G,46-52,Doctorate,TT
 M00032,10/21/2021,,Ankara,Female,D,39-45,High School,ZZ
-M00033,10/7/2020,2/13/2021,Ankara,Male,D,25-31,Doctorate,ZZ
+M00033,10/7/2020,2/13/2021,Ankara,Female,D,25-31,Doctorate,ZZ
 M00034,9/22/2018,,Ankara,Female,F,52+,Doctorate,TT
-M00035,10/2/2021,11/29/2022,Antalya,Male,D,39-45,Primary School,ZZ
-M00036,11/10/2021,,Ankara,Male,B,39-45,Primary School,ZZ
+M00035,10/2/2021,11/29/2022,Antalya,Female,D,39-45,Primary School,ZZ
+M00036,11/10/2021,,Ankara,Female,B,39-45,Primary School,ZZ
 M00037,1/1/2015,2/3/2023,Antalya,Female,A,32-38,Master's Degree,TT
-M00038,4/7/2022,,Bolu,Male,A,18-24,Primary School,RR
-M00039,9/18/2015,9/9/2020,Bolu,Male,G,46-52,High School,RR
+M00038,4/7/2022,,Bolu,Female,A,18-24,Primary School,RR
+M00039,9/18/2015,9/9/2020,Bolu,Female,G,46-52,High School,RR
 M00040,5/26/2020,,Antalya,Female,B,18-24,Primary School,KK
-M00041,4/25/2021,,Izmir,Male,G,52+,Bachelor's Degree,RR
-M00042,5/10/2023,,Izmir,Male,C,46-52,Bachelor's Degree,RR
-M00043,8/26/2017,3/23/2023,Ankara,Male,D,52+,Associate Degree,RR
-M00044,10/3/2021,6/9/2022,Istanbul,Male,G,18-24,High School,YY
+M00041,4/25/2021,,Izmir,Female,G,52+,Bachelor's Degree,RR
+M00042,5/10/2023,,Izmir,Female,C,46-52,Bachelor's Degree,RR
+M00043,8/26/2017,3/23/2023,Ankara,Female,D,52+,Associate Degree,RR
+M00044,10/3/2021,6/9/2022,Istanbul,Female,G,18-24,High School,YY
 M00045,1/9/2021,5/9/2024,Istanbul,Female,A,25-31,High School,YY
-M00046,2/4/2023,,Ankara,Male,G,18-24,High School,TT
-M00047,12/16/2024,,Istanbul,Male,A,32-38,High School,XX
-M00048,11/8/2020,,Istanbul,Male,D,32-38,Master's Degree,KK
+M00046,2/4/2023,,Ankara,Female,G,18-24,High School,TT
+M00047,12/16/2024,,Istanbul,Female,A,32-38,High School,XX
+M00048,11/8/2020,,Istanbul,Female,D,32-38,Master's Degree,KK
 M00049,5/3/2018,,Aydin,Female,C,25-31,Bachelor's Degree,YY
-M00050,6/27/2022,,Bolu,Male,D,46-52,Primary School,ZZ
-M00051,2/3/2016,1/15/2018,Antalya,Male,A,39-45,Bachelor's Degree,KK
-M00052,3/21/2024,,Bolu,Male,C,32-38,High School,TT
-M00053,12/6/2021,,Ankara,Male,G,39-45,Doctorate,KK
-M00054,10/24/2015,6/23/2017,Aydin,Male,E,25-31,High School,TT
-M00055,2/6/2022,6/18/2023,Antalya,Male,B,46-52,High School,XX
-M00056,1/31/2020,10/10/2020,Ankara,Male,A,39-45,Master's Degree,KK
+M00050,6/27/2022,,Bolu,Female,D,46-52,Primary School,ZZ
+M00051,2/3/2016,1/15/2018,Antalya,Female,A,39-45,Bachelor's Degree,KK
+M00052,3/21/2024,,Bolu,Female,C,32-38,High School,TT
+M00053,12/6/2021,,Ankara,Female,G,39-45,Doctorate,KK
+M00054,10/24/2015,6/23/2017,Aydin,Female,E,25-31,High School,TT
+M00055,2/6/2022,6/18/2023,Antalya,Female,B,46-52,High School,XX
+M00056,1/31/2020,10/10/2020,Ankara,Female,A,39-45,Master's Degree,KK
 M00057,2/12/2016,,Ankara,Female,G,39-45,Associate Degree,RR
-M00058,1/12/2015,7/23/2023,Aydin,Male,B,46-52,Master's Degree,ZZ
-M00059,11/25/2020,,Aydin,Male,G,25-31,Primary School,ZZ
-M00060,4/7/2023,,Ankara,Male,C,32-38,Primary School,TT
+M00058,1/12/2015,7/23/2023,Aydin,Female,B,46-52,Master's Degree,ZZ
+M00059,11/25/2020,,Aydin,Female,G,25-31,Primary School,ZZ
+M00060,4/7/2023,,Ankara,Female,C,32-38,Primary School,TT
 M00061,2/13/2020,,Ankara,Female,D,32-38,Doctorate,KK
-M00062,4/3/2018,,Aydin,Male,B,32-38,High School,ZZ
-M00063,2/8/2017,11/9/2022,Ankara,Male,A,18-24,Doctorate,TT
-M00064,1/9/2019,11/16/2021,Istanbul,Male,C,25-31,Master's Degree,PP
-M00065,4/11/2020,,Aydin,Male,B,39-45,High School,XX
-M00066,7/17/2018,5/16/2024,Ankara,Male,B,18-24,High School,XX
-M00067,7/18/2023,,Istanbul,Male,F,18-24,High School,PP
-M00068,11/18/2016,8/16/2019,Antalya,Male,E,32-38,High School,RR
+M00062,4/3/2018,,Aydin,Female,B,32-38,High School,ZZ
+M00063,2/8/2017,11/9/2022,Ankara,Female,A,18-24,Doctorate,TT
+M00064,1/9/2019,11/16/2021,Istanbul,Female,C,25-31,Master's Degree,PP
+M00065,4/11/2020,,Aydin,Female,B,39-45,High School,XX
+M00066,7/17/2018,5/16/2024,Ankara,Female,B,18-24,High School,XX
+M00067,7/18/2023,,Istanbul,Female,F,18-24,High School,PP
+M00068,11/18/2016,8/16/2019,Antalya,Female,E,32-38,High School,RR
 M00069,10/21/2015,12/5/2024,Istanbul,Female,A,46-52,Doctorate,PP
 M00070,5/31/2016,,Aydin,Female,A,32-38,High School,RR
-M00071,12/6/2016,10/6/2019,Antalya,Male,G,39-45,Associate Degree,PP
-M00072,2/14/2016,,Antalya,Male,G,25-31,Associate Degree,YY
+M00071,12/6/2016,10/6/2019,Antalya,Female,G,39-45,Associate Degree,PP
+M00072,2/14/2016,,Antalya,Female,G,25-31,Associate Degree,YY
 M00073,1/1/2022,,Ankara,Female,A,46-52,Bachelor's Degree,RR
-M00074,1/30/2022,,Ankara,Male,A,32-38,Doctorate,ZZ
-M00075,12/6/2022,9/2/2024,Izmir,Male,B,18-24,Bachelor's Degree,YY
+M00074,1/30/2022,,Ankara,Female,A,32-38,Doctorate,ZZ
+M00075,12/6/2022,9/2/2024,Izmir,Female,B,18-24,Bachelor's Degree,YY
 M00076,12/9/2018,3/30/2024,Istanbul,Female,G,18-24,Master's Degree,KK
 M00077,9/2/2023,,Bolu,Female,A,32-38,Doctorate,RR
-M00078,10/6/2019,10/31/2024,Izmir,Male,D,46-52,Doctorate,KK
-M00079,12/25/2017,,Aydin,Male,E,46-52,Master's Degree,XX
-M00080,10/16/2018,3/29/2022,Antalya,Male,G,52+,Primary School,YY
+M00078,10/6/2019,10/31/2024,Izmir,Female,D,46-52,Doctorate,KK
+M00079,12/25/2017,,Aydin,Female,E,46-52,Master's Degree,XX
+M00080,10/16/2018,3/29/2022,Antalya,Female,G,52+,Primary School,YY
 M00081,12/15/2023,,Bolu,Female,A,18-24,Primary School,ZZ
 M00082,2/18/2018,3/1/2020,Istanbul,Female,C,32-38,High School,PP
-M00083,5/2/2019,,Bolu,Male,D,52+,Primary School,TT
-M00084,9/6/2021,,Aydin,Male,E,46-52,Master's Degree,TT
-M00085,12/12/2022,,Istanbul,Male,B,18-24,Master's Degree,XX
-M00086,9/20/2021,,Ankara,Male,F,52+,Associate Degree,YY
-M00087,2/9/2016,,Istanbul,Male,G,18-24,Bachelor's Degree,PP
-M00088,1/12/2023,,Istanbul,Male,F,25-31,Doctorate,ZZ
-M00089,8/7/2021,5/21/2024,Izmir,Male,G,32-38,Doctorate,RR
-M00090,7/24/2017,8/5/2018,Istanbul,Male,G,39-45,Associate Degree,YY
-M00091,8/10/2015,1/6/2023,Bolu,Male,D,25-31,Primary School,KK
-M00092,4/10/2024,,Bolu,Male,A,52+,Bachelor's Degree,TT
-M00093,5/7/2021,,Istanbul,Male,G,25-31,Primary School,ZZ
-M00094,8/24/2020,2/6/2024,Izmir,Male,A,39-45,High School,PP
-M00095,2/9/2019,11/16/2020,Antalya,Male,D,39-45,Bachelor's Degree,RR
-M00096,4/28/2018,,Bolu,Male,C,32-38,Doctorate,RR
-M00097,8/2/2019,4/3/2021,Bolu,Male,E,25-31,Doctorate,PP
-M00098,6/22/2022,,Ankara,Male,G,52+,Master's Degree,XX
-M00099,8/21/2019,,Ankara,Male,C,52+,Bachelor's Degree,RR
-M00100,9/8/2023,,Istanbul,Male,E,18-24,Master's Degree,PP
-M00101,9/16/2020,,Aydin,Male,D,32-38,Master's Degree,KK
+M00083,5/2/2019,,Bolu,Female,D,52+,Primary School,TT
+M00084,9/6/2021,,Aydin,Female,E,46-52,Master's Degree,TT
+M00085,12/12/2022,,Istanbul,Female,B,18-24,Master's Degree,XX
+M00086,9/20/2021,,Ankara,Female,F,52+,Associate Degree,YY
+M00087,2/9/2016,,Istanbul,Female,G,18-24,Bachelor's Degree,PP
+M00088,1/12/2023,,Istanbul,Female,F,25-31,Doctorate,ZZ
+M00089,8/7/2021,5/21/2024,Izmir,Female,G,32-38,Doctorate,RR
+M00090,7/24/2017,8/5/2018,Istanbul,Female,G,39-45,Associate Degree,YY
+M00091,8/10/2015,1/6/2023,Bolu,Female,D,25-31,Primary School,KK
+M00092,4/10/2024,,Bolu,Female,A,52+,Bachelor's Degree,TT
+M00093,5/7/2021,,Istanbul,Female,G,25-31,Primary School,ZZ
+M00094,8/24/2020,2/6/2024,Izmir,Female,A,39-45,High School,PP
+M00095,2/9/2019,11/16/2020,Antalya,Female,D,39-45,Bachelor's Degree,RR
+M00096,4/28/2018,,Bolu,Female,C,32-38,Doctorate,RR
+M00097,8/2/2019,4/3/2021,Bolu,Female,E,25-31,Doctorate,PP
+M00098,6/22/2022,,Ankara,Female,G,52+,Master's Degree,XX
+M00099,8/21/2019,,Ankara,Female,C,52+,Bachelor's Degree,RR
+M00100,9/8/2023,,Istanbul,Female,E,18-24,Master's Degree,PP
+M00101,9/16/2020,,Aydin,Female,D,32-38,Master's Degree,KK
 M00102,3/20/2022,5/11/2024,Antalya,Female,A,52+,Master's Degree,YY
-M00103,3/27/2018,12/27/2020,Istanbul,Male,G,25-31,Associate Degree,XX
-M00104,6/6/2017,5/17/2022,Istanbul,Male,D,25-31,Bachelor's Degree,KK
-M00105,7/3/2020,,Istanbul,Male,F,39-45,Master's Degree,RR
-M00106,6/3/2018,,Ankara,Male,F,25-31,Bachelor's Degree,TT
-M00107,7/18/2021,,Bolu,Male,C,46-52,Associate Degree,YY
-M00108,10/13/2020,12/5/2022,Izmir,Male,G,32-38,High School,YY
+M00103,3/27/2018,12/27/2020,Istanbul,Female,G,25-31,Associate Degree,XX
+M00104,6/6/2017,5/17/2022,Istanbul,Female,D,25-31,Bachelor's Degree,KK
+M00105,7/3/2020,,Istanbul,Female,F,39-45,Master's Degree,RR
+M00106,6/3/2018,,Ankara,Female,F,25-31,Bachelor's Degree,TT
+M00107,7/18/2021,,Bolu,Female,C,46-52,Associate Degree,YY
+M00108,10/13/2020,12/5/2022,Izmir,Female,G,32-38,High School,YY
 M00109,12/13/2024,,Istanbul,Female,A,39-45,Master's Degree,TT
-M00110,5/29/2017,12/3/2022,Aydin,Male,C,32-38,Bachelor's Degree,TT
+M00110,5/29/2017,12/3/2022,Aydin,Female,C,32-38,Bachelor's Degree,TT
 M00111,7/10/2021,,Ankara,Female,F,25-31,Primary School,KK
-M00112,4/11/2015,11/27/2020,Aydin,Male,D,46-52,Master's Degree,XX
-M00113,6/7/2019,,Izmir,Male,D,39-45,Doctorate,RR
+M00112,4/11/2015,11/27/2020,Aydin,Female,D,46-52,Master's Degree,XX
+M00113,6/7/2019,,Izmir,Female,D,39-45,Doctorate,RR
 M00114,7/18/2024,,Aydin,Female,F,52+,Master's Degree,TT
-M00115,11/6/2021,2/28/2024,Bolu,Male,C,32-38,Associate Degree,TT
-M00116,2/3/2021,1/25/2023,Bolu,Male,G,32-38,Master's Degree,XX
+M00115,11/6/2021,2/28/2024,Bolu,Female,C,32-38,Associate Degree,TT
+M00116,2/3/2021,1/25/2023,Bolu,Female,G,32-38,Master's Degree,XX
 M00117,8/13/2019,,Ankara,Female,F,25-31,High School,YY
 M00118,12/8/2023,,Ankara,Female,B,18-24,Bachelor's Degree,TT
-M00119,7/21/2018,,Aydin,Male,E,46-52,High School,ZZ
-M00120,7/9/2020,,Antalya,Male,F,18-24,Bachelor's Degree,YY
-M00121,1/26/2018,,Istanbul,Male,G,18-24,High School,KK
+M00119,7/21/2018,,Aydin,Female,E,46-52,High School,ZZ
+M00120,7/9/2020,,Antalya,Female,F,18-24,Bachelor's Degree,YY
+M00121,1/26/2018,,Istanbul,Female,G,18-24,High School,KK
 M00122,11/5/2020,6/5/2024,Aydin,Female,F,18-24,Master's Degree,XX
 M00123,1/28/2019,,Aydin,Female,G,25-31,Master's Degree,XX
-M00124,3/18/2020,,Istanbul,Male,C,25-31,High School,TT
-M00125,3/15/2016,3/2/2022,Antalya,Male,F,18-24,Master's Degree,ZZ
-M00126,4/20/2024,,Aydin,Male,A,32-38,Master's Degree,KK
-M00127,9/19/2015,7/4/2019,Izmir,Male,A,46-52,Associate Degree,XX
-M00128,1/4/2016,5/31/2017,Bolu,Male,G,46-52,High School,YY
-M00129,9/1/2023,,Istanbul,Male,F,25-31,Primary School,RR
-M00130,5/26/2023,8/26/2024,Bolu,Male,B,39-45,Associate Degree,XX
-M00131,12/6/2016,8/25/2021,Istanbul,Male,E,52+,Primary School,KK
-M00132,4/6/2023,,Bolu,Male,D,39-45,Master's Degree,PP
-M00133,1/7/2015,9/8/2018,Izmir,Male,A,32-38,Doctorate,RR
-M00134,4/13/2022,7/29/2024,Izmir,Male,G,18-24,High School,XX
-M00135,10/20/2022,,Ankara,Male,F,39-45,Associate Degree,RR
-M00136,10/27/2020,,Istanbul,Male,A,52+,Associate Degree,ZZ
-M00137,9/18/2024,,Ankara,Male,D,32-38,High School,KK
-M00138,11/8/2015,11/29/2024,Antalya,Male,G,46-52,Primary School,XX
-M00139,10/18/2024,,Bolu,Male,F,25-31,Associate Degree,RR
+M00124,3/18/2020,,Istanbul,Female,C,25-31,High School,TT
+M00125,3/15/2016,3/2/2022,Antalya,Female,F,18-24,Master's Degree,ZZ
+M00126,4/20/2024,,Aydin,Female,A,32-38,Master's Degree,KK
+M00127,9/19/2015,7/4/2019,Izmir,Female,A,46-52,Associate Degree,XX
+M00128,1/4/2016,5/31/2017,Bolu,Female,G,46-52,High School,YY
+M00129,9/1/2023,,Istanbul,Female,F,25-31,Primary School,RR
+M00130,5/26/2023,8/26/2024,Bolu,Female,B,39-45,Associate Degree,XX
+M00131,12/6/2016,8/25/2021,Istanbul,Female,E,52+,Primary School,KK
+M00132,4/6/2023,,Bolu,Female,D,39-45,Master's Degree,PP
+M00133,1/7/2015,9/8/2018,Izmir,Female,A,32-38,Doctorate,RR
+M00134,4/13/2022,7/29/2024,Izmir,Female,G,18-24,High School,XX
+M00135,10/20/2022,,Ankara,Female,F,39-45,Associate Degree,RR
+M00136,10/27/2020,,Istanbul,Female,A,52+,Associate Degree,ZZ
+M00137,9/18/2024,,Ankara,Female,D,32-38,High School,KK
+M00138,11/8/2015,11/29/2024,Antalya,Female,G,46-52,Primary School,XX
+M00139,10/18/2024,,Bolu,Female,F,25-31,Associate Degree,RR
 M00140,4/30/2015,9/20/2018,Istanbul,Female,G,46-52,Doctorate,KK
 M00141,6/7/2024,,Ankara,Female,F,32-38,Bachelor's Degree,KK
-M00142,10/29/2015,8/23/2017,Izmir,Male,D,25-31,Primary School,RR
-M00143,6/2/2018,8/16/2024,Antalya,Male,A,46-52,Associate Degree,RR
-M00144,2/5/2020,,Antalya,Male,F,18-24,Master's Degree,ZZ
+M00142,10/29/2015,8/23/2017,Izmir,Female,D,25-31,Primary School,RR
+M00143,6/2/2018,8/16/2024,Antalya,Female,A,46-52,Associate Degree,RR
+M00144,2/5/2020,,Antalya,Female,F,18-24,Master's Degree,ZZ
 M00145,12/16/2019,1/2/2022,Ankara,Female,C,18-24,Doctorate,XX
-M00146,1/1/2022,2/26/2024,Bolu,Male,F,32-38,Master's Degree,PP
-M00147,5/30/2015,3/2/2021,Ankara,Male,D,32-38,Primary School,YY
-M00148,5/27/2017,3/14/2022,Istanbul,Male,C,39-45,Associate Degree,ZZ
+M00146,1/1/2022,2/26/2024,Bolu,Female,F,32-38,Master's Degree,PP
+M00147,5/30/2015,3/2/2021,Ankara,Female,D,32-38,Primary School,YY
+M00148,5/27/2017,3/14/2022,Istanbul,Female,C,39-45,Associate Degree,ZZ
 M00149,4/10/2016,9/15/2023,Istanbul,Female,C,32-38,Bachelor's Degree,YY
-M00150,3/26/2017,7/19/2018,Istanbul,Male,B,18-24,Master's Degree,RR
-M00151,3/24/2016,6/2/2024,Istanbul,Male,B,39-45,High School,YY
-M00152,5/31/2023,,Bolu,Male,B,32-38,Master's Degree,YY
-M00153,5/17/2016,12/22/2020,Izmir,Male,C,39-45,Doctorate,PP
-M00154,12/1/2024,,Istanbul,Male,G,46-52,Associate Degree,ZZ
-M00155,4/23/2019,7/20/2021,Bolu,Male,E,18-24,Associate Degree,KK
-M00156,9/24/2021,,Ankara,Male,G,32-38,Associate Degree,XX
-M00157,5/30/2016,1/11/2021,Izmir,Male,B,52+,Doctorate,KK
-M00158,8/16/2019,,Izmir,Male,F,52+,Primary School,RR
+M00150,3/26/2017,7/19/2018,Istanbul,Female,B,18-24,Master's Degree,RR
+M00151,3/24/2016,6/2/2024,Istanbul,Female,B,39-45,High School,YY
+M00152,5/31/2023,,Bolu,Female,B,32-38,Master's Degree,YY
+M00153,5/17/2016,12/22/2020,Izmir,Female,C,39-45,Doctorate,PP
+M00154,12/1/2024,,Istanbul,Female,G,46-52,Associate Degree,ZZ
+M00155,4/23/2019,7/20/2021,Bolu,Female,E,18-24,Associate Degree,KK
+M00156,9/24/2021,,Ankara,Female,G,32-38,Associate Degree,XX
+M00157,5/30/2016,1/11/2021,Izmir,Female,B,52+,Doctorate,KK
+M00158,8/16/2019,,Izmir,Female,F,52+,Primary School,RR
 M00159,10/5/2015,8/29/2023,Bolu,Female,D,18-24,Associate Degree,XX
 M00160,12/17/2022,2/9/2023,Ankara,Female,B,46-52,Doctorate,TT
-M00161,9/1/2022,,Istanbul,Male,E,32-38,Master's Degree,RR
-M00162,10/30/2017,5/27/2021,Bolu,Male,F,32-38,Primary School,TT
-M00163,3/4/2017,,Ankara,Male,F,25-31,Bachelor's Degree,RR
-M00164,3/7/2019,,Istanbul,Male,F,32-38,Associate Degree,RR
-M00165,12/7/2019,11/23/2024,Ankara,Male,F,32-38,High School,YY
-M00166,12/25/2024,,Istanbul,Male,E,32-38,Bachelor's Degree,RR
+M00161,9/1/2022,,Istanbul,Female,E,32-38,Master's Degree,RR
+M00162,10/30/2017,5/27/2021,Bolu,Female,F,32-38,Primary School,TT
+M00163,3/4/2017,,Ankara,Female,F,25-31,Bachelor's Degree,RR
+M00164,3/7/2019,,Istanbul,Female,F,32-38,Associate Degree,RR
+M00165,12/7/2019,11/23/2024,Ankara,Female,F,32-38,High School,YY
+M00166,12/25/2024,,Istanbul,Female,E,32-38,Bachelor's Degree,RR
 M00167,2/27/2016,7/8/2016,Ankara,Female,D,46-52,Master's Degree,XX
-M00168,6/2/2019,3/4/2020,Bolu,Male,D,46-52,Primary School,TT
-M00169,6/27/2022,11/21/2024,Istanbul,Male,C,18-24,High School,TT
-M00170,8/16/2022,12/17/2023,Ankara,Male,C,52+,Master's Degree,YY
-M00171,3/20/2023,6/8/2024,Ankara,Male,C,18-24,Bachelor's Degree,RR
-M00172,1/7/2023,,Bolu,Male,G,18-24,Master's Degree,YY
+M00168,6/2/2019,3/4/2020,Bolu,Female,D,46-52,Primary School,TT
+M00169,6/27/2022,11/21/2024,Istanbul,Female,C,18-24,High School,TT
+M00170,8/16/2022,12/17/2023,Ankara,Female,C,52+,Master's Degree,YY
+M00171,3/20/2023,6/8/2024,Ankara,Female,C,18-24,Bachelor's Degree,RR
+M00172,1/7/2023,,Bolu,Female,G,18-24,Master's Degree,YY
 M00173,7/15/2022,,Istanbul,Female,B,25-31,High School,PP
-M00174,9/11/2016,,Ankara,Male,B,46-52,Master's Degree,XX
-M00175,3/28/2023,7/5/2024,Aydin,Male,E,25-31,Primary School,XX
-M00176,2/19/2017,,Istanbul,Male,E,39-45,Primary School,ZZ
-M00177,11/3/2021,1/19/2024,Izmir,Male,E,39-45,High School,XX
-M00178,3/30/2019,8/9/2022,Izmir,Male,E,25-31,Associate Degree,ZZ
-M00179,8/2/2021,6/9/2022,Izmir,Male,D,18-24,Bachelor's Degree,ZZ
+M00174,9/11/2016,,Ankara,Female,B,46-52,Master's Degree,XX
+M00175,3/28/2023,7/5/2024,Aydin,Female,E,25-31,Primary School,XX
+M00176,2/19/2017,,Istanbul,Female,E,39-45,Primary School,ZZ
+M00177,11/3/2021,1/19/2024,Izmir,Female,E,39-45,High School,XX
+M00178,3/30/2019,8/9/2022,Izmir,Female,E,25-31,Associate Degree,ZZ
+M00179,8/2/2021,6/9/2022,Izmir,Female,D,18-24,Bachelor's Degree,ZZ
 M00180,8/17/2016,2/7/2022,Bolu,Female,G,46-52,Bachelor's Degree,TT
-M00181,7/2/2015,4/17/2017,Bolu,Male,B,39-45,High School,PP
-M00182,1/4/2021,,Bolu,Male,A,18-24,Master's Degree,ZZ
+M00181,7/2/2015,4/17/2017,Bolu,Female,B,39-45,High School,PP
+M00182,1/4/2021,,Bolu,Female,A,18-24,Master's Degree,ZZ
 M00183,3/4/2017,10/20/2021,Ankara,Female,E,32-38,Bachelor's Degree,TT
-M00184,3/27/2024,,Aydin,Male,D,32-38,High School,ZZ
-M00185,5/9/2017,,Bolu,Male,C,32-38,Master's Degree,TT
-M00186,11/4/2016,1/26/2023,Antalya,Male,D,18-24,Master's Degree,XX
+M00184,3/27/2024,,Aydin,Female,D,32-38,High School,ZZ
+M00185,5/9/2017,,Bolu,Female,C,32-38,Master's Degree,TT
+M00186,11/4/2016,1/26/2023,Antalya,Female,D,18-24,Master's Degree,XX
 M00187,6/29/2019,,Izmir,Female,B,39-45,Bachelor's Degree,KK
-M00188,4/26/2017,9/3/2024,Bolu,Male,G,25-31,Master's Degree,YY
-M00189,11/5/2015,7/13/2023,Izmir,Male,A,52+,Bachelor's Degree,RR
-M00190,2/25/2022,,Bolu,Male,D,39-45,Primary School,TT
+M00188,4/26/2017,9/3/2024,Bolu,Female,G,25-31,Master's Degree,YY
+M00189,11/5/2015,7/13/2023,Izmir,Female,A,52+,Bachelor's Degree,RR
+M00190,2/25/2022,,Bolu,Female,D,39-45,Primary School,TT
 M00191,5/3/2021,,Bolu,Female,A,39-45,Associate Degree,RR
-M00192,2/2/2016,6/26/2019,Bolu,Male,B,32-38,Master's Degree,KK
+M00192,2/2/2016,6/26/2019,Bolu,Female,B,32-38,Master's Degree,KK
 M00193,9/2/2017,10/9/2018,Bolu,Female,B,46-52,High School,TT
 M00194,6/3/2017,,Izmir,Female,A,52+,Primary School,KK
-M00195,3/25/2018,,Ankara,Male,E,46-52,Associate Degree,TT
-M00196,12/27/2021,,Istanbul,Male,A,25-31,Primary School,YY
-M00197,8/10/2017,9/7/2021,Aydin,Male,A,25-31,Bachelor's Degree,RR
-M00198,10/25/2017,,Istanbul,Male,F,18-24,Primary School,RR
-M00199,3/13/2023,,Antalya,Male,B,25-31,Primary School,XX
-M00200,4/11/2021,,Bolu,Male,G,46-52,Master's Degree,RR
-M00201,6/22/2022,,Bolu,Male,G,46-52,Master's Degree,XX
-M00202,3/11/2019,1/27/2022,Ankara,Male,A,32-38,Bachelor's Degree,KK
-M00203,8/17/2019,11/15/2020,Istanbul,Male,D,39-45,Primary School,KK
-M00204,1/14/2019,1/4/2022,Antalya,Male,E,25-31,Primary School,KK
-M00205,3/3/2019,10/27/2020,Ankara,Male,C,32-38,Associate Degree,XX
+M00195,3/25/2018,,Ankara,Female,E,46-52,Associate Degree,TT
+M00196,12/27/2021,,Istanbul,Female,A,25-31,Primary School,YY
+M00197,8/10/2017,9/7/2021,Aydin,Female,A,25-31,Bachelor's Degree,RR
+M00198,10/25/2017,,Istanbul,Female,F,18-24,Primary School,RR
+M00199,3/13/2023,,Antalya,Female,B,25-31,Primary School,XX
+M00200,4/11/2021,,Bolu,Female,G,46-52,Master's Degree,RR
+M00201,6/22/2022,,Bolu,Female,G,46-52,Master's Degree,XX
+M00202,3/11/2019,1/27/2022,Ankara,Female,A,32-38,Bachelor's Degree,KK
+M00203,8/17/2019,11/15/2020,Istanbul,Female,D,39-45,Primary School,KK
+M00204,1/14/2019,1/4/2022,Antalya,Female,E,25-31,Primary School,KK
+M00205,3/3/2019,10/27/2020,Ankara,Female,C,32-38,Associate Degree,XX
 M00206,12/9/2023,,Bolu,Female,A,39-45,High School,XX
-M00207,1/26/2015,11/8/2019,Aydin,Male,E,18-24,Associate Degree,TT
-M00208,12/13/2019,,Bolu,Male,G,18-24,Bachelor's Degree,KK
-M00209,5/29/2022,1/28/2023,Aydin,Male,A,25-31,Master's Degree,KK
-M00210,2/20/2023,,Ankara,Male,C,18-24,Primary School,KK
-M00211,4/19/2020,6/9/2023,Izmir,Male,G,39-45,High School,RR
-M00212,11/13/2022,,Istanbul,Male,F,46-52,Doctorate,PP
-M00213,4/29/2016,7/31/2017,Izmir,Male,F,52+,Master's Degree,KK
-M00214,7/12/2017,6/27/2022,Ankara,Male,C,39-45,Doctorate,KK
-M00215,6/17/2022,,Antalya,Male,D,18-24,Master's Degree,PP
-M00216,7/1/2017,3/11/2022,Aydin,Male,C,39-45,Master's Degree,TT
-M00217,1/8/2019,3/31/2022,Ankara,Male,D,18-24,Bachelor's Degree,TT
-M00218,7/30/2018,,Aydin,Male,E,18-24,Master's Degree,TT
-M00219,8/29/2020,,Aydin,Male,G,39-45,Master's Degree,TT
-M00220,12/17/2018,4/28/2024,Ankara,Male,B,46-52,Master's Degree,TT
-M00221,5/28/2019,,Antalya,Male,G,32-38,Master's Degree,ZZ
-M00222,9/6/2023,,Aydin,Male,G,25-31,Master's Degree,YY
-M00223,11/14/2019,3/28/2021,Bolu,Male,F,46-52,Master's Degree,KK
-M00224,11/20/2017,,Bolu,Male,D,32-38,Associate Degree,PP
-M00225,7/31/2024,,Bolu,Male,E,46-52,Master's Degree,TT
+M00207,1/26/2015,11/8/2019,Aydin,Female,E,18-24,Associate Degree,TT
+M00208,12/13/2019,,Bolu,Female,G,18-24,Bachelor's Degree,KK
+M00209,5/29/2022,1/28/2023,Aydin,Female,A,25-31,Master's Degree,KK
+M00210,2/20/2023,,Ankara,Female,C,18-24,Primary School,KK
+M00211,4/19/2020,6/9/2023,Izmir,Female,G,39-45,High School,RR
+M00212,11/13/2022,,Istanbul,Female,F,46-52,Doctorate,PP
+M00213,4/29/2016,7/31/2017,Izmir,Female,F,52+,Master's Degree,KK
+M00214,7/12/2017,6/27/2022,Ankara,Female,C,39-45,Doctorate,KK
+M00215,6/17/2022,,Antalya,Female,D,18-24,Master's Degree,PP
+M00216,7/1/2017,3/11/2022,Aydin,Female,C,39-45,Master's Degree,TT
+M00217,1/8/2019,3/31/2022,Ankara,Female,D,18-24,Bachelor's Degree,TT
+M00218,7/30/2018,,Aydin,Female,E,18-24,Master's Degree,TT
+M00219,8/29/2020,,Aydin,Female,G,39-45,Master's Degree,TT
+M00220,12/17/2018,4/28/2024,Ankara,Female,B,46-52,Master's Degree,TT
+M00221,5/28/2019,,Antalya,Female,G,32-38,Master's Degree,ZZ
+M00222,9/6/2023,,Aydin,Female,G,25-31,Master's Degree,YY
+M00223,11/14/2019,3/28/2021,Bolu,Female,F,46-52,Master's Degree,KK
+M00224,11/20/2017,,Bolu,Female,D,32-38,Associate Degree,PP
+M00225,7/31/2024,,Bolu,Female,E,46-52,Master's Degree,TT
 M00226,1/12/2019,10/2/2023,Ankara,Female,D,46-52,Doctorate,RR
-M00227,11/23/2016,8/11/2019,Ankara,Male,F,39-45,High School,TT
-M00228,11/14/2016,,Bolu,Male,D,52+,Master's Degree,PP
-M00229,9/13/2023,,Ankara,Male,F,46-52,Associate Degree,PP
+M00227,11/23/2016,8/11/2019,Ankara,Female,F,39-45,High School,TT
+M00228,11/14/2016,,Bolu,Female,D,52+,Master's Degree,PP
+M00229,9/13/2023,,Ankara,Female,F,46-52,Associate Degree,PP
 M00230,10/15/2021,,Aydin,Female,D,25-31,High School,PP
-M00231,5/1/2019,,Bolu,Male,E,52+,Master's Degree,YY
-M00232,8/16/2017,10/6/2022,Izmir,Male,E,52+,Primary School,KK
-M00233,4/30/2021,4/5/2022,Antalya,Male,A,25-31,High School,YY
+M00231,5/1/2019,,Bolu,Female,E,52+,Master's Degree,YY
+M00232,8/16/2017,10/6/2022,Izmir,Female,E,52+,Primary School,KK
+M00233,4/30/2021,4/5/2022,Antalya,Female,A,25-31,High School,YY
 M00234,11/7/2021,,Bolu,Female,E,39-45,Primary School,PP
-M00235,2/17/2020,8/12/2023,Bolu,Male,G,18-24,Doctorate,PP
-M00236,6/29/2021,8/4/2024,Ankara,Male,G,18-24,Bachelor's Degree,KK
-M00237,5/18/2016,9/15/2020,Bolu,Male,A,25-31,Master's Degree,YY
+M00235,2/17/2020,8/12/2023,Bolu,Female,G,18-24,Doctorate,PP
+M00236,6/29/2021,8/4/2024,Ankara,Female,G,18-24,Bachelor's Degree,KK
+M00237,5/18/2016,9/15/2020,Bolu,Female,A,25-31,Master's Degree,YY
 M00238,6/15/2017,,Istanbul,Female,F,32-38,Bachelor's Degree,PP
-M00239,11/11/2015,3/12/2023,Izmir,Male,D,46-52,Associate Degree,XX
+M00239,11/11/2015,3/12/2023,Izmir,Female,D,46-52,Associate Degree,XX
 M00240,1/16/2019,3/5/2020,Ankara,Female,F,18-24,High School,TT
-M00241,8/2/2023,,Izmir,Male,E,32-38,Doctorate,RR
+M00241,8/2/2023,,Izmir,Female,E,32-38,Doctorate,RR
 M00242,6/23/2022,,Istanbul,Female,A,46-52,Master's Degree,XX
-M00243,8/19/2017,12/16/2019,Izmir,Male,A,25-31,Master's Degree,YY
-M00244,11/26/2018,,Ankara,Male,B,39-45,High School,TT
-M00245,8/15/2019,6/6/2023,Aydin,Male,E,25-31,Master's Degree,RR
-M00246,3/14/2019,,Bolu,Male,F,32-38,Master's Degree,YY
-M00247,11/1/2021,,Istanbul,Male,A,52+,Master's Degree,TT
-M00248,7/16/2021,,Istanbul,Male,C,18-24,Master's Degree,YY
-M00249,12/18/2024,,Istanbul,Male,B,52+,Master's Degree,ZZ
-M00250,2/18/2016,12/22/2024,Izmir,Male,G,52+,Bachelor's Degree,PP
-M00251,9/23/2023,,Izmir,Male,C,32-38,Primary School,RR
-M00252,8/27/2020,,Istanbul,Male,C,18-24,Master's Degree,PP
-M00253,6/7/2017,1/9/2020,Ankara,Male,B,25-31,Primary School,PP
-M00254,12/27/2024,,Izmir,Male,A,46-52,Doctorate,XX
-M00255,6/18/2020,,Ankara,Male,G,39-45,Doctorate,RR
+M00243,8/19/2017,12/16/2019,Izmir,Female,A,25-31,Master's Degree,YY
+M00244,11/26/2018,,Ankara,Female,B,39-45,High School,TT
+M00245,8/15/2019,6/6/2023,Aydin,Female,E,25-31,Master's Degree,RR
+M00246,3/14/2019,,Bolu,Female,F,32-38,Master's Degree,YY
+M00247,11/1/2021,,Istanbul,Female,A,52+,Master's Degree,TT
+M00248,7/16/2021,,Istanbul,Female,C,18-24,Master's Degree,YY
+M00249,12/18/2024,,Istanbul,Female,B,52+,Master's Degree,ZZ
+M00250,2/18/2016,12/22/2024,Izmir,Female,G,52+,Bachelor's Degree,PP
+M00251,9/23/2023,,Izmir,Female,C,32-38,Primary School,RR
+M00252,8/27/2020,,Istanbul,Female,C,18-24,Master's Degree,PP
+M00253,6/7/2017,1/9/2020,Ankara,Female,B,25-31,Primary School,PP
+M00254,12/27/2024,,Izmir,Female,A,46-52,Doctorate,XX
+M00255,6/18/2020,,Ankara,Female,G,39-45,Doctorate,RR
 M00256,2/19/2017,7/23/2018,Antalya,Female,D,18-24,Master's Degree,ZZ
-M00257,1/2/2022,4/27/2023,Izmir,Male,G,25-31,Associate Degree,RR
-M00258,5/31/2018,,Ankara,Male,A,18-24,Associate Degree,TT
-M00259,2/17/2024,,Ankara,Male,F,32-38,Associate Degree,RR
-M00260,11/17/2017,1/30/2020,Bolu,Male,A,52+,Master's Degree,TT
-M00261,9/28/2018,3/7/2022,Antalya,Male,B,46-52,Primary School,RR
-M00262,1/7/2021,,Antalya,Male,D,39-45,Master's Degree,TT
-M00263,5/13/2023,,Bolu,Male,E,46-52,Primary School,KK
-M00264,9/29/2015,10/16/2024,Ankara,Male,F,18-24,Associate Degree,YY
-M00265,4/21/2020,,Bolu,Male,F,52+,Doctorate,TT
-M00266,8/10/2021,,Ankara,Male,D,18-24,High School,ZZ
+M00257,1/2/2022,4/27/2023,Izmir,Female,G,25-31,Associate Degree,RR
+M00258,5/31/2018,,Ankara,Female,A,18-24,Associate Degree,TT
+M00259,2/17/2024,,Ankara,Female,F,32-38,Associate Degree,RR
+M00260,11/17/2017,1/30/2020,Bolu,Female,A,52+,Master's Degree,TT
+M00261,9/28/2018,3/7/2022,Antalya,Female,B,46-52,Primary School,RR
+M00262,1/7/2021,,Antalya,Female,D,39-45,Master's Degree,TT
+M00263,5/13/2023,,Bolu,Female,E,46-52,Primary School,KK
+M00264,9/29/2015,10/16/2024,Ankara,Female,F,18-24,Associate Degree,YY
+M00265,4/21/2020,,Bolu,Female,F,52+,Doctorate,TT
+M00266,8/10/2021,,Ankara,Female,D,18-24,High School,ZZ
 M00267,9/27/2023,,Aydin,Female,B,18-24,Master's Degree,PP
-M00268,1/8/2024,,Ankara,Male,E,25-31,Master's Degree,ZZ
+M00268,1/8/2024,,Ankara,Female,E,25-31,Master's Degree,ZZ
 M00269,9/18/2018,5/2/2020,Ankara,Female,A,39-45,Master's Degree,KK
-M00270,7/6/2015,2/12/2023,Ankara,Male,C,39-45,Master's Degree,PP
-M00271,10/28/2017,4/19/2020,Aydin,Male,F,25-31,Master's Degree,TT
-M00272,6/9/2016,,Ankara,Male,B,25-31,High School,PP
-M00273,10/9/2024,,Bolu,Male,B,46-52,High School,XX
+M00270,7/6/2015,2/12/2023,Ankara,Female,C,39-45,Master's Degree,PP
+M00271,10/28/2017,4/19/2020,Aydin,Female,F,25-31,Master's Degree,TT
+M00272,6/9/2016,,Ankara,Female,B,25-31,High School,PP
+M00273,10/9/2024,,Bolu,Female,B,46-52,High School,XX
 M00274,12/21/2021,6/29/2024,Ankara,Female,C,52+,Bachelor's Degree,RR
-M00275,3/9/2023,,Ankara,Male,A,25-31,Primary School,PP
-M00276,11/11/2016,6/2/2018,Istanbul,Male,A,18-24,Doctorate,ZZ
-M00277,11/5/2024,,Aydin,Male,D,39-45,Primary School,YY
-M00278,10/25/2024,,Antalya,Male,E,39-45,Master's Degree,TT
-M00279,4/17/2018,1/27/2021,Istanbul,Male,E,46-52,Master's Degree,XX
+M00275,3/9/2023,,Ankara,Female,A,25-31,Primary School,PP
+M00276,11/11/2016,6/2/2018,Istanbul,Female,A,18-24,Doctorate,ZZ
+M00277,11/5/2024,,Aydin,Female,D,39-45,Primary School,YY
+M00278,10/25/2024,,Antalya,Female,E,39-45,Master's Degree,TT
+M00279,4/17/2018,1/27/2021,Istanbul,Female,E,46-52,Master's Degree,XX
 M00280,12/19/2018,10/1/2024,Ankara,Female,A,39-45,Master's Degree,TT
-M00281,3/16/2015,5/10/2018,Istanbul,Male,C,25-31,Master's Degree,XX
-M00282,10/25/2016,9/14/2018,Istanbul,Male,G,25-31,Master's Degree,YY
-M00283,9/19/2018,10/18/2023,Ankara,Male,F,25-31,Doctorate,XX
-M00284,6/25/2023,,Izmir,Male,B,25-31,Primary School,KK
-M00285,12/8/2022,,Istanbul,Male,D,25-31,Associate Degree,XX
-M00286,12/9/2022,,Ankara,Male,F,32-38,Master's Degree,RR
-M00287,9/3/2023,,Istanbul,Male,B,25-31,Master's Degree,XX
-M00288,2/8/2015,9/15/2019,Istanbul,Male,E,46-52,Master's Degree,ZZ
-M00289,8/22/2021,,Bolu,Male,A,39-45,Master's Degree,PP
-M00290,12/14/2015,,Izmir,Male,B,52+,Master's Degree,PP
-M00291,7/21/2023,,Ankara,Male,F,18-24,Master's Degree,XX
-M00292,7/2/2015,8/23/2024,Ankara,Male,B,32-38,Doctorate,YY
-M00293,5/27/2018,10/13/2021,Ankara,Male,B,25-31,Associate Degree,PP
-M00294,5/14/2016,,Istanbul,Male,B,32-38,Primary School,XX
-M00295,4/6/2022,,Ankara,Male,C,46-52,Doctorate,PP
-M00296,8/2/2017,,Ankara,Male,E,39-45,Bachelor's Degree,ZZ
+M00281,3/16/2015,5/10/2018,Istanbul,Female,C,25-31,Master's Degree,XX
+M00282,10/25/2016,9/14/2018,Istanbul,Female,G,25-31,Master's Degree,YY
+M00283,9/19/2018,10/18/2023,Ankara,Female,F,25-31,Doctorate,XX
+M00284,6/25/2023,,Izmir,Female,B,25-31,Primary School,KK
+M00285,12/8/2022,,Istanbul,Female,D,25-31,Associate Degree,XX
+M00286,12/9/2022,,Ankara,Female,F,32-38,Master's Degree,RR
+M00287,9/3/2023,,Istanbul,Female,B,25-31,Master's Degree,XX
+M00288,2/8/2015,9/15/2019,Istanbul,Female,E,46-52,Master's Degree,ZZ
+M00289,8/22/2021,,Bolu,Female,A,39-45,Master's Degree,PP
+M00290,12/14/2015,,Izmir,Female,B,52+,Master's Degree,PP
+M00291,7/21/2023,,Ankara,Female,F,18-24,Master's Degree,XX
+M00292,7/2/2015,8/23/2024,Ankara,Female,B,32-38,Doctorate,YY
+M00293,5/27/2018,10/13/2021,Ankara,Female,B,25-31,Associate Degree,PP
+M00294,5/14/2016,,Istanbul,Female,B,32-38,Primary School,XX
+M00295,4/6/2022,,Ankara,Female,C,46-52,Doctorate,PP
+M00296,8/2/2017,,Ankara,Female,E,39-45,Bachelor's Degree,ZZ
 M00297,10/31/2022,12/13/2024,Izmir,Female,E,32-38,Primary School,YY
-M00298,1/14/2017,,Bolu,Male,C,39-45,Associate Degree,ZZ
-M00299,5/22/2015,5/24/2016,Izmir,Male,F,52+,Doctorate,RR
-M00300,7/22/2015,10/12/2024,Bolu,Male,C,52+,Bachelor's Degree,YY
+M00298,1/14/2017,,Bolu,Female,C,39-45,Associate Degree,ZZ
+M00299,5/22/2015,5/24/2016,Izmir,Female,F,52+,Doctorate,RR
+M00300,7/22/2015,10/12/2024,Bolu,Female,C,52+,Bachelor's Degree,YY
 M00301,5/6/2021,4/6/2023,Istanbul,Female,G,25-31,Master's Degree,XX
-M00302,6/19/2018,1/15/2023,Aydin,Male,D,25-31,Master's Degree,TT
-M00303,9/26/2021,,Ankara,Male,E,32-38,Master's Degree,ZZ
-M00304,3/16/2023,,Istanbul,Male,G,32-38,High School,TT
-M00305,10/14/2024,,Aydin,Male,G,39-45,Bachelor's Degree,PP
+M00302,6/19/2018,1/15/2023,Aydin,Female,D,25-31,Master's Degree,TT
+M00303,9/26/2021,,Ankara,Female,E,32-38,Master's Degree,ZZ
+M00304,3/16/2023,,Istanbul,Female,G,32-38,High School,TT
+M00305,10/14/2024,,Aydin,Female,G,39-45,Bachelor's Degree,PP
 M00306,12/12/2018,3/14/2021,Antalya,Female,C,32-38,Primary School,ZZ
-M00307,4/7/2024,,Aydin,Male,A,39-45,Associate Degree,TT
-M00308,12/31/2016,3/4/2017,Bolu,Male,F,46-52,Primary School,YY
-M00309,5/25/2021,12/16/2022,Istanbul,Male,G,25-31,Doctorate,PP
-M00310,7/12/2024,,Aydin,Male,F,39-45,Master's Degree,ZZ
-M00311,7/20/2023,,Bolu,Male,B,52+,Master's Degree,TT
-M00312,11/23/2024,,Aydin,Male,D,46-52,Master's Degree,YY
-M00313,1/26/2021,,Aydin,Male,F,25-31,Master's Degree,KK
-M00314,11/22/2023,,Antalya,Male,F,25-31,Master's Degree,ZZ
-M00315,11/5/2021,,Izmir,Male,B,52+,Primary School,KK
-M00316,2/2/2017,9/13/2022,Aydin,Male,C,25-31,Primary School,XX
-M00317,4/21/2017,6/9/2024,Ankara,Male,C,39-45,Associate Degree,TT
+M00307,4/7/2024,,Aydin,Female,A,39-45,Associate Degree,TT
+M00308,12/31/2016,3/4/2017,Bolu,Female,F,46-52,Primary School,YY
+M00309,5/25/2021,12/16/2022,Istanbul,Female,G,25-31,Doctorate,PP
+M00310,7/12/2024,,Aydin,Female,F,39-45,Master's Degree,ZZ
+M00311,7/20/2023,,Bolu,Female,B,52+,Master's Degree,TT
+M00312,11/23/2024,,Aydin,Female,D,46-52,Master's Degree,YY
+M00313,1/26/2021,,Aydin,Female,F,25-31,Master's Degree,KK
+M00314,11/22/2023,,Antalya,Female,F,25-31,Master's Degree,ZZ
+M00315,11/5/2021,,Izmir,Female,B,52+,Primary School,KK
+M00316,2/2/2017,9/13/2022,Aydin,Female,C,25-31,Primary School,XX
+M00317,4/21/2017,6/9/2024,Ankara,Female,C,39-45,Associate Degree,TT
 M00318,8/25/2019,2/28/2024,Izmir,Female,B,25-31,Master's Degree,KK
 M00319,4/6/2017,7/19/2019,Izmir,Female,E,39-45,Master's Degree,YY
-M00320,7/4/2019,,Antalya,Male,F,25-31,Bachelor's Degree,XX
-M00321,6/22/2021,,Antalya,Male,F,25-31,Master's Degree,YY
-M00322,10/20/2015,7/8/2024,Ankara,Male,F,46-52,Master's Degree,TT
-M00323,12/31/2020,12/5/2024,Istanbul,Male,C,46-52,Master's Degree,RR
+M00320,7/4/2019,,Antalya,Female,F,25-31,Bachelor's Degree,XX
+M00321,6/22/2021,,Antalya,Female,F,25-31,Master's Degree,YY
+M00322,10/20/2015,7/8/2024,Ankara,Female,F,46-52,Master's Degree,TT
+M00323,12/31/2020,12/5/2024,Istanbul,Female,C,46-52,Master's Degree,RR
 M00324,12/7/2023,,Bolu,Female,D,25-31,Master's Degree,TT
-M00325,4/27/2024,,Istanbul,Male,D,18-24,Master's Degree,KK
+M00325,4/27/2024,,Istanbul,Female,D,18-24,Master's Degree,KK
 M00326,5/7/2015,5/31/2024,Aydin,Female,F,25-31,Primary School,KK
-M00327,7/16/2018,,Aydin,Male,F,25-31,Primary School,YY
-M00328,8/1/2015,8/26/2018,Izmir,Male,B,46-52,Bachelor's Degree,YY
-M00329,9/14/2018,,Antalya,Male,F,25-31,Primary School,YY
-M00330,8/25/2024,,Aydin,Male,F,32-38,Master's Degree,ZZ
-M00331,9/23/2021,,Izmir,Male,A,25-31,Bachelor's Degree,XX
+M00327,7/16/2018,,Aydin,Female,F,25-31,Primary School,YY
+M00328,8/1/2015,8/26/2018,Izmir,Female,B,46-52,Bachelor's Degree,YY
+M00329,9/14/2018,,Antalya,Female,F,25-31,Primary School,YY
+M00330,8/25/2024,,Aydin,Female,F,32-38,Master's Degree,ZZ
+M00331,9/23/2021,,Izmir,Female,A,25-31,Bachelor's Degree,XX
 M00332,8/4/2015,,Antalya,Female,A,32-38,Associate Degree,KK
-M00333,10/18/2018,10/13/2024,Istanbul,Male,B,32-38,Doctorate,KK
-M00334,10/4/2020,9/4/2024,Bolu,Male,B,39-45,High School,PP
+M00333,10/18/2018,10/13/2024,Istanbul,Female,B,32-38,Doctorate,KK
+M00334,10/4/2020,9/4/2024,Bolu,Female,B,39-45,High School,PP
 M00335,12/23/2018,2/28/2024,Istanbul,Female,A,39-45,Master's Degree,TT
 M00336,1/2/2023,,Antalya,Female,A,25-31,Master's Degree,ZZ
 M00337,5/18/2020,,Bolu,Female,D,25-31,Primary School,TT
 M00338,10/9/2015,7/6/2018,Ankara,Female,G,39-45,Bachelor's Degree,PP
-M00339,9/29/2020,10/19/2024,Aydin,Male,G,32-38,High School,ZZ
-M00340,10/7/2020,12/13/2023,Aydin,Male,B,25-31,High School,XX
-M00341,11/14/2020,6/9/2024,Istanbul,Male,A,46-52,Master's Degree,XX
-M00342,9/16/2019,,Istanbul,Male,C,25-31,Associate Degree,KK
-M00343,4/30/2015,5/28/2019,Bolu,Male,A,25-31,Associate Degree,KK
+M00339,9/29/2020,10/19/2024,Aydin,Female,G,32-38,High School,ZZ
+M00340,10/7/2020,12/13/2023,Aydin,Female,B,25-31,High School,XX
+M00341,11/14/2020,6/9/2024,Istanbul,Female,A,46-52,Master's Degree,XX
+M00342,9/16/2019,,Istanbul,Female,C,25-31,Associate Degree,KK
+M00343,4/30/2015,5/28/2019,Bolu,Female,A,25-31,Associate Degree,KK
 M00344,5/6/2018,,Izmir,Female,E,25-31,Associate Degree,KK
-M00345,6/1/2019,,Istanbul,Male,F,25-31,Master's Degree,PP
+M00345,6/1/2019,,Istanbul,Female,F,25-31,Master's Degree,PP
 M00346,1/13/2015,1/3/2020,Ankara,Female,F,39-45,Master's Degree,XX
-M00347,11/16/2022,,Istanbul,Male,F,52+,Master's Degree,XX
-M00348,12/25/2015,12/29/2017,Ankara,Male,F,25-31,Master's Degree,YY
-M00349,9/29/2020,,Ankara,Male,D,32-38,Master's Degree,PP
-M00350,3/28/2017,,Bolu,Male,C,39-45,Bachelor's Degree,XX
-M00351,3/18/2017,,Bolu,Male,C,32-38,Doctorate,YY
-M00352,6/15/2022,,Izmir,Male,G,39-45,Associate Degree,RR
-M00353,11/15/2023,,Bolu,Male,C,39-45,Bachelor's Degree,RR
-M00354,5/10/2024,,Ankara,Male,A,32-38,Master's Degree,KK
-M00355,8/18/2021,,Istanbul,Male,E,32-38,Master's Degree,YY
-M00356,8/24/2020,,Istanbul,Male,F,46-52,High School,ZZ
-M00357,11/30/2018,7/26/2020,Bolu,Male,E,46-52,Bachelor's Degree,XX
-M00358,1/24/2022,7/17/2023,Ankara,Male,G,32-38,Doctorate,KK
-M00359,12/12/2016,7/23/2021,Istanbul,Male,C,39-45,Bachelor's Degree,TT
-M00360,3/13/2015,2/15/2024,Ankara,Male,D,52+,Master's Degree,YY
-M00361,3/16/2015,3/2/2023,Istanbul,Male,F,25-31,Master's Degree,TT
+M00347,11/16/2022,,Istanbul,Female,F,52+,Master's Degree,XX
+M00348,12/25/2015,12/29/2017,Ankara,Female,F,25-31,Master's Degree,YY
+M00349,9/29/2020,,Ankara,Female,D,32-38,Master's Degree,PP
+M00350,3/28/2017,,Bolu,Female,C,39-45,Bachelor's Degree,XX
+M00351,3/18/2017,,Bolu,Female,C,32-38,Doctorate,YY
+M00352,6/15/2022,,Izmir,Female,G,39-45,Associate Degree,RR
+M00353,11/15/2023,,Bolu,Female,C,39-45,Bachelor's Degree,RR
+M00354,5/10/2024,,Ankara,Female,A,32-38,Master's Degree,KK
+M00355,8/18/2021,,Istanbul,Female,E,32-38,Master's Degree,YY
+M00356,8/24/2020,,Istanbul,Female,F,46-52,High School,ZZ
+M00357,11/30/2018,7/26/2020,Bolu,Female,E,46-52,Bachelor's Degree,XX
+M00358,1/24/2022,7/17/2023,Ankara,Female,G,32-38,Doctorate,KK
+M00359,12/12/2016,7/23/2021,Istanbul,Female,C,39-45,Bachelor's Degree,TT
+M00360,3/13/2015,2/15/2024,Ankara,Female,D,52+,Master's Degree,YY
+M00361,3/16/2015,3/2/2023,Istanbul,Female,F,25-31,Master's Degree,TT
 M00362,9/4/2017,,Izmir,Female,E,46-52,Master's Degree,RR
-M00363,2/3/2018,10/11/2020,Bolu,Male,E,18-24,High School,KK
-M00364,4/3/2015,3/21/2020,Istanbul,Male,F,25-31,Bachelor's Degree,ZZ
-M00365,2/14/2021,,Istanbul,Male,A,39-45,Primary School,XX
-M00366,3/7/2019,11/26/2019,Istanbul,Male,E,25-31,Associate Degree,TT
-M00367,8/18/2024,,Antalya,Male,D,25-31,High School,PP
-M00368,12/23/2018,,Izmir,Male,D,46-52,Master's Degree,RR
-M00369,3/1/2023,10/4/2023,Bolu,Male,G,32-38,Doctorate,YY
-M00370,2/16/2021,,Antalya,Male,A,32-38,Master's Degree,TT
-M00371,12/12/2020,,Bolu,Male,C,32-38,Primary School,ZZ
+M00363,2/3/2018,10/11/2020,Bolu,Female,E,18-24,High School,KK
+M00364,4/3/2015,3/21/2020,Istanbul,Female,F,25-31,Bachelor's Degree,ZZ
+M00365,2/14/2021,,Istanbul,Female,A,39-45,Primary School,XX
+M00366,3/7/2019,11/26/2019,Istanbul,Female,E,25-31,Associate Degree,TT
+M00367,8/18/2024,,Antalya,Female,D,25-31,High School,PP
+M00368,12/23/2018,,Izmir,Female,D,46-52,Master's Degree,RR
+M00369,3/1/2023,10/4/2023,Bolu,Female,G,32-38,Doctorate,YY
+M00370,2/16/2021,,Antalya,Female,A,32-38,Master's Degree,TT
+M00371,12/12/2020,,Bolu,Female,C,32-38,Primary School,ZZ
 M00372,7/23/2021,4/2/2023,Izmir,Male,C,39-45,Bachelor's Degree,TT
 M00373,9/21/2015,4/5/2024,Aydin,Male,B,18-24,Master's Degree,XX
 M00374,9/17/2021,2/13/2023,Ankara,Male,D,52+,Doctorate,RR
